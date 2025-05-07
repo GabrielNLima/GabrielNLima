@@ -1,6 +1,6 @@
 Computer Science student at Unicentro (7th semester).
 Passionate about software development and problem-solving.
-Skills: C, C++, Python, PHP, HTML5, CSS, Laravel, Vue.js, Flutter.
+Skills: C, C++, Python, PHP, Laravel, Vue.js, Flutter.
 
 Working on web application development with Laravel and Vue.js.
 
